@@ -1,0 +1,9 @@
+.play-ground {
+    display: flex;
+    .schema-section {
+        flex: 60%;
+    }
+    .result-section {
+        flex: 40%;
+    }
+}
